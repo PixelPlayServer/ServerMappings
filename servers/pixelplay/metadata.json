@@ -5,7 +5,8 @@
     "addresses": [
         "pixelplay.gg"
     ],
-    "primaryAddress": "mc.pixelplay.gg",
+    "minecraftVersions": [
+        "1.21.*",
     "primaryColor": "#2ecc71",
     "secondaryColor": "#4be08c",
     "minecraftVersions": [
@@ -14,9 +15,15 @@
     "primaryMinecraftVersion": "1.21.1",
     "primaryRegion": "SA",
     "regions": [
-        "SA"
+        "SA",
+        "NA",
+        "EU"
     ],
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "Skyblock",
+        "Vanilla",
+        "PvP",
     ]
 }
+
